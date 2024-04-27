@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashik Antony</h1>
 <h3 align="center">A passionate frontend developer & backend developer, specialisit in Ml and Ai</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikantony&label=Profile%20views&color=0e75b6&style=flat" alt="ashikantony" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashikantony" alt="ashikantony" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ashilevi13" target="blank"><img src="https://img.shields.io/twitter/follow/ashilevi13?logo=twitter&style=for-the-badge" alt="ashilevi13" /></a> </p>
 
 - 🔭 I’m currently working on **Generative Ai**
 
 - 🌱 I’m currently learning **Django, Flask, Ruby, Rust**
+
+- 👨‍💻 All of my projects are available at [https://codepen.io/your-work](https://codepen.io/your-work)
+
+- 📝 I regularly write articles on [https://medium.com/@ashikantony23](https://medium.com/@ashikantony23)
 
 - 📫 How to reach me **ashikantony23@gmail.com**
 
@@ -24,6 +24,7 @@
 <a href="https://twitter.com/ashilevi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashilevi13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashikantonyai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikantonyai" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashikantony13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashikantony13" height="30" width="40" /></a>
+<a href="https://instagram.com/__leviathen_13_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__leviathen_13_" height="30" width="40" /></a>
 <a href="https://medium.com/@ashikantony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashikantony" height="30" width="40" /></a>
 </p>
 
