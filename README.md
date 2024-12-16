@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashik Antony</h1>
-<h3 align="center">A passionate Full stack developer, UI/UX Designer, specialisit in Ml</h3>
+<h3 align="center">A specialisit in Ml</h3>
 
 <p align="left"> <a href="https://twitter.com/ashilevi13" target="blank"><img src="https://img.shields.io/twitter/follow/ashilevi13?logo=twitter&style=for-the-badge" alt="ashilevi13" /></a> </p>
 
